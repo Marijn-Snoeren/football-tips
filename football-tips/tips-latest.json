@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T18:06:57.572Z",
+  "tips": [
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Feyenoord Rotterdam",
+      "kickoff": "2026-09-09T16:45:00Z",
+      "matchWinner": {
+        "pick": "Home",
+        "odds": 1.35,
+        "confidence": "High",
+        "reasoning": "FC Barcelona has exceptional home record in European competitions and possesses superior technical squad depth compared to Feyenoord."
+      },
+      "bothTeamsToScore": {
+        "pick": "Yes",
+        "odds": 1.65,
+        "confidence": "Medium",
+        "reasoning": "Feyenoord plays high-pressing, transition football that can exploit Barcelona's high defensive line, though Barca's home attacking power remains dominant."
+      },
+      "overUnder": {
+        "line": 2.5,
+        "pick": "Over",
+        "odds": 1.45,
+        "confidence": "High",
+        "reasoning": "Both teams are highly offensive and score consistently in their domestic leagues, leading to an expected open-ended tactical contest."
+      },
+      "bestSelection": {
+        "market": "Over/Under",
+        "pickText": "Over 2.5 Goals",
+        "odds": 1.45,
+        "confidence": "High",
+        "reasoning": "Given Barcelona's elite front line combined with Feyenoord's direct attacking transition play, over 2.5 goals is highly secure and provides excellent value."
+      },
+      "predictedScore": "3-1"
+    },
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Viking FK",
+      "kickoff": "2026-09-09T16:45:00Z",
+      "matchWinner": {
+        "pick": "Home",
+        "odds": 1.22,
+        "confidence": "High",
+        "reasoning": "Stuttgart's intense Bundesliga pedigree and formidable atmosphere at the MHPArena make them clear favorites over the Norwegian outfit."
+      },
+      "bothTeamsToScore": {
+        "pick": "No",
+        "odds": 1.95,
+        "confidence": "Medium",
+        "reasoning": "Stuttgart's organized structure at home is likely to dominate possession, choking out opportunities for Viking FK's counterattacks."
+      },
+      "overUnder": {
+        "line": 2.5,
+        "pick": "Over",
+        "odds": 1.42,
+        "confidence": "High",
+        "reasoning": "Stuttgart's home games are historically high-scoring, and they have the attacking quality to hit this line almost single-handedly."
+      },
+      "bestSelection": {
+        "market": "Match Winner",
+        "pickText": "Home Win",
+        "odds": 1.22,
+        "confidence": "High",
+        "reasoning": "The gulf in technical quality and league intensity between the Bundesliga and Eliteserien makes a Stuttgart victory the safest anchor for any ticket."
+      },
+      "predictedScore": "3-0"
+    },
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "Arsenal FC",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "matchWinner": {
+        "pick": "Draw",
+        "odds": 3.4,
+        "confidence": "Low",
+        "reasoning": "Napoli under intense home support is incredibly resilient, while Arsenal has the defensive stability to secure a valuable point on the road."
+      },
+      "bothTeamsToScore": {
+        "pick": "Yes",
+        "odds": 1.75,
+        "confidence": "Medium",
+        "reasoning": "Both teams feature elite creative midfields and world-class forward lines, making at least one goal for each side highly probable."
+      },
+      "overUnder": {
+        "line": 2.5,
+        "pick": "Under",
+        "odds": 1.88,
+        "confidence": "Medium",
+        "reasoning": "Both managers are tactically flexible and pragmatic in high-profile European ties, often prioritizing structure over aggressive expansion."
+      },
+      "bestSelection": {
+        "market": "Over/Under",
+        "pickText": "Under 2.5 Goals",
+        "odds": 1.88,
+        "confidence": "Medium",
+        "reasoning": "High-stakes match-up between two tactically elite coaches. Expecting a cagey chess match where a mid-block defensive focus limits clear-cut chances."
+      },
+      "predictedScore": "1-1"
+    },
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Club Atlético de Madrid",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "matchWinner": {
+        "pick": "Home",
+        "odds": 1.55,
+        "confidence": "High",
+        "reasoning": "Liverpool at Anfield under the lights has a historic edge, and their rapid transition play is suited to break down Atletico's defense."
+      },
+      "bothTeamsToScore": {
+        "pick": "Yes",
+        "odds": 1.72,
+        "confidence": "Medium",
+        "reasoning": "Atletico Madrid possesses lethal counter-attacking threats like Antoine Griezmann that can exploit Liverpool's high line."
+      },
+      "overUnder": {
+        "line": 2.5,
+        "pick": "Over",
+        "odds": 1.68,
+        "confidence": "Medium",
+        "reasoning": "Anfield's hostile atmosphere forces high tempo, often leading to transition-heavy games with multiple goals."
+      },
+      "bestSelection": {
+        "market": "Match Winner",
+        "pickText": "Home Win",
+        "odds": 1.55,
+        "confidence": "High",
+        "reasoning": "Liverpool's domestic form and extraordinary home record in Europe make them highly dependable to edge out a tough Atletico side."
+      },
+      "predictedScore": "2-1"
+    },
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "Sporting Clube de Portugal",
+      "awayTeam": "Galatasaray SK",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "matchWinner": {
+        "pick": "Home",
+        "odds": 1.65,
+        "confidence": "High",
+        "reasoning": "Sporting is exceptionally organized in Lisbon, while Galatasaray historically struggles defensively during away fixtures in the Champions League."
+      },
+      "bothTeamsToScore": {
+        "pick": "Yes",
+        "odds": 1.55,
+        "confidence": "High",
+        "reasoning": "Galatasaray's offensive fire-power (including Viktor Osimhen and Mauro Icardi) almost guarantees they find the net, despite their defensive frailties."
+      },
+      "overUnder": {
+        "line": 2.5,
+        "pick": "Over",
+        "odds": 1.5,
+        "confidence": "High",
+        "reasoning": "Both teams are domestic goal machines with explosive strikers, pointing toward a highly entertaining and open fixture."
+      },
+      "bestSelection": {
+        "market": "BTTS",
+        "pickText": "BTTS - Yes",
+        "odds": 1.55,
+        "confidence": "High",
+        "reasoning": "Sporting's deadly forward lines paired with Galatasaray's elite but top-heavy attacking talent makes Both Teams to Score the absolute best statistical option."
+      },
+      "predictedScore": "3-1"
+    },
+    {
+      "league": "UEFA Champions League",
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "ŠK Slovan Bratislava",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "matchWinner": {
+        "pick": "Home",
+        "odds": 1.08,
+        "confidence": "High",
+        "reasoning": "Huge disparity in budget, squad depth, and technical class. PSG should comfortably dominate at the Parc des Princes."
+      },
+      "bothTeamsToScore": {
+        "pick": "No",
+        "odds": 1.62,
+        "confidence": "High",
+        "reasoning": "Slovan Bratislava will be forced into a deep defensive block, starved of possession, making it very difficult to build clean counter-attacks."
+      },
+      "overUnder": {
+        "line": 3.5,
+        "pick": "Over",
+        "odds": 1.75,
+        "confidence": "Medium",
+        "reasoning": "PSG's dynamic attackers can easily score four goals themselves at home against lower-ranked UEFA opposition."
+      },
+      "bestSelection": {
+        "market": "BTTS",
+        "pickText": "BTTS - No",
+        "odds": 1.62,
+        "confidence": "High",
+        "reasoning": "Slovan Bratislava is heavily outclassed and will struggle to sustain any possession in the final third. PSG keeping a clean sheet provides excellent value."
+      },
+      "predictedScore": "4-0"
+    }
+  ]
+}
